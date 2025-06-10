@@ -6,7 +6,13 @@
 
 ###
 
-<p align="center">Advogado com 7 anos de experiência no setor jurídico, atualmente em transição de carreira para a área de<br>tecnologia, com foco em desenvolvimento front-end. Estou terminando um curso de Desenvolvedor Full Stack no<br>SENAC BAURU, onde estou adquirindo habilidades em programação, frameworks e metodologias ágeis. Tenho<br>experiência prática trabalhando em projetos em equipe, colaborando no desenvolvimento de soluções tecnológicas<br>e aprimorando minhas habilidades em HTML, CSS, TypeScript, React.js, Node.js, Nest.js e outras tecnologias de<br>Front-end e Back-end. Busco uma oportunidade para aplicar minha capacidade analítica, atenção aos detalhes e<br>habilidades de resolução de problemas em um ambiente de desenvolvimento, contribuindo para o sucesso de<br>projetos.</p>
+<p align="center">Profissional em transição de carreira da área jurídica para a tecnologia, com sólida experiência em análise, atenção
+aos detalhes e resolução de problemas. Concluí recentemente o curso de Desenvolvedor Full Stack no SENAC
+Bauru e estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar (previsão de conclusão em
+dezembro de 2027). Busco uma oportunidade como desenvolvedor front-end ou full stack, onde possa aplicar meu
+conhecimento em HTML, CSS, React.js, Node.js e outras tecnologias, contribuindo para o desenvolvimento de
+soluções digitais inovadoras e para a excelência das entregas internas. Tenho perfil colaborativo e foco em
+resultados, alinhado com o propósito de transformar a experiência dos clientes através de soluções tecnológicas.</p>
 
 ###
 
